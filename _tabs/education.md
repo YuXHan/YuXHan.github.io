@@ -26,7 +26,7 @@ Beijing, China
 
 2021 – 2026
 
-# **The Affiliated High School of Inner Mongolia Normal University**
+## **High School Affiliated to Inner Mongolia Normal University**
 
 Hohhot, Inner Mongolia, China  
 
