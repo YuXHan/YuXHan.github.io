@@ -4,15 +4,30 @@ icon: fas fa-university
 order: 3
 permalink: /education/
 ---
+# **Education**
 
-# 教育经历
+## **Peking University**
 
-## 待补充的学校或机构
+**Master's Student in Territorial Spatial Planning**  
 
-**专业 / 学位** · 起止时间
+School of Urban Planning and Design  
 
-- 研究或学习方向：请在这里补充
-- 主要课程：请在这里补充
-- 代表经历：请在这里补充
+Peking University
 
-> 你可以在 Pages CMS 的“教育经历”中直接替换以上内容。
+Shenzhen, China  
+
+2026 – 2029
+
+## **Minzu University of China**
+
+**Bachelor of Science in Data Science and Big Data Technology**  
+
+Beijing, China  
+
+2021 – 2026
+
+# **The Affiliated High School of Inner Mongolia Normal University**
+
+Hohhot, Inner Mongolia, China  
+
+2018 – 2021
