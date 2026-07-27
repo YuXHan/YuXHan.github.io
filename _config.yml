@@ -1,49 +1,45 @@
 # The Site Configuration
 
-# Import the theme
 theme: jekyll-theme-chirpy
 
-# The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
-# If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
-# otherwise, the layout language will use the default value of 'en'.
-lang: en
+# 网站界面语言
+lang: zh-CN
 
-# Change to your timezone › https://zones.arilyn.cc
-timezone:
+# 时区
+timezone: Asia/Shanghai
 
-# jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
-# ↓ --------------------------
+# --------------------------
+# 网站基本信息
+# --------------------------
 
-title: Chirpy # the main title
+title: YuXHan
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: Research · Engineering · Notes
 
-description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+description: >-
+  YuXHan's personal website for research, engineering projects,
+  study notes, and personal records.
 
-# Fill in the protocol & hostname for your site.
-# E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+# GitHub Pages 网站地址，最后不要加 /
+url: "https://yuxhan.github.io"
 
 github:
-  username: github_username # change to your GitHub username
+  username: YuXHan
 
 twitter:
-  username: twitter_username # change to your Twitter username
+  username:
 
 social:
-  # Change to your full name.
-  # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
-  fediverse_handle: # fill in your fediverse handle. E.g. "@username@domain.com"
+  # 以后文章默认显示的作者名
+  name: YuXHan
+
+  # 暂时不想公开邮箱的话就留空
+  email:
+
+  fediverse_handle:
+
   links:
-    # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://github.com/YuXHan
 
 # Site Verification Settings
 webmaster_verifications:
