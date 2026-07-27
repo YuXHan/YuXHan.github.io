@@ -1,6 +1,6 @@
 ---
 title: 示例｜今天学习了 GitHub Pages 的发布流程
-date: 2026-07-27 21:00:00 +0800
+date: 2026-07-27 20:00:00 +0800
 categories: [学习, 日常记录]
 tags: [github-pages, 自动部署, 示例]
 description: 通过一次实际更新，了解从提交内容到网站自动发布的完整过程。
