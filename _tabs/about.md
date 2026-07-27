@@ -3,30 +3,23 @@ title: 关于我
 icon: fas fa-info-circle
 order: 8
 ---
+# Hello, I'm Zhao Tianze (YuXHan)
 
-# 你好，我是赵天泽（YuXHan）
+An undergraduate student majoring in **Data Science and Big Data Technology** at the Information Engineering College of Central University of Nationalities (2022.09 – 2026.06). My GPA ranks **1st/39** and my overall score ranks **1st/39**.
 
-中央民族大学信息工程学院 **数据科学与大数据技术** 专业本科生（2022.09 – 2026.06），GPA 排名 **1/39**，综合成绩排名 **1/39**。
+## Research directions
 
-## 研究方向
-分子表征学习、医学图像处理（CT去噪/细胞分割）、扩散模型与生成式AI。
+Machine learning, sociology, economics, social interaction among classes, large-scale model for population movement, Arctic shipping routes, AIS data processing, emission models, smart cities and big data.
 
-## 科研成果
-- **SCI 一区**：以第一作者在 *Alexandria Engineering Journal* 发表混合深度神经网络分子表征论文
-- **CCF-C 类会议 CVM 2025**：以第二作者提出 MANet-CycleGAN 低剂量 CT 去噪方法
-- **EI 检索会议 IPOD 2024**：以第一作者发表 UNet/Transformer 细胞图像分割对比研究，已被 CVPR 等引用
+## Recent work
 
-## 竞赛获奖
-- 中国机器人及人工智能大赛 **全国一等奖**
-- 中国大学生计算机设计大赛 **全国三等奖**
-- 全国大学生数字媒体科技作品及创意竞赛 **全国三等奖**
-- 北京市各类计算机学科竞赛一、二、三等奖累计 **8 项**
+- **The article titled "An Integrated Assessment of Mobility Forecasting and Vehicle Rebalancing for Urban Taxi Services Resilience under Heavy Rainfall", with me as the first author, is currently undergoing its second round of revision.**
+- **A piece of work involving social interactions among different classes, in which I am either the first or the second author, is currently being handled by someone else.**
+- **Recently, I joined a group called "Large Model for Crowd Movement" and served as the deputy leader of the data processing team.**
+- **In the shipping department, I am responsible for handling AIS data and draft data.**
 
-## 荣誉
-- **连续三年**本科生国家奖学金（前 1%）
-- 中央民族大学优秀共青团员、优秀学生干部
-- 深圳零一学院零一菁锐奖
+## Contact Information
 
-## 联系方式
-- 📧 yuxhallin@163.com
+- 📧 [yuxhallin@163.com](mailto:yuxhallin@163.com)
 - 💻 GitHub：[YuXHan](https://github.com/YuXHan)
+
