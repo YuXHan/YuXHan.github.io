@@ -2,27 +2,28 @@
 title: 教育经历
 icon: fas fa-graduation-cap
 order: 4
+permalink: /education/
 ---
+## **Peking University**
 
-## 中央民族大学
-**数据科学与大数据技术** | 本科 | 2022.09 – 2026.06（预计）
+**Master's Student in Territorial Spatial Planning**  
 
-- 学校层次：985 / 211 / 双一流 A
-- 学院：信息工程学院
-- GPA：3/5 | 排名 **1/39**
-- 综合成绩：100.17 | 排名 **1/39**
-- 班级班长（2023-2026）
-- 机器人社社长（2024-2025）
-- 大数据民族班本科生党支部宣传委员（2025-至今）
+School of Urban Planning and Design  
 
-## 科研实习经历
+Shenzhen, China  
 
-### 北京大学计算机学院
-**科研实习生** | 2025.01 – 2025.05
-- 提出 Diffusion4Sketch 方法，利用 Stable Diffusion 模型对 Count-Min Sketch 矩阵去噪
-- CNN 模型 MSE 降至 0.0020（改进 55.83%），混合神经网络 MSE 降至 0.0042（改进 26.72%）
+2026 – 2029
 
-### 中国科学院半导体研究所
-**科研实习生** | 2024.10 – 2024.12
-- 参与"十四五"重点研发计划——重大突发生物安全威胁智能机器人侦检平台
-- 基于电子鼻传感器数据实现 SISS 快速检测策略，二分类准确率从 72% 提升至 94%+
+## **Minzu University of China**
+
+**Bachelor of Science in Data Science and Big Data Technology**  
+
+Beijing, China  
+
+2021 – 2026
+
+## **The Affiliated High School of Inner Mongolia Normal University**
+
+Hohhot, Inner Mongolia, China  
+
+2018 – 2021
