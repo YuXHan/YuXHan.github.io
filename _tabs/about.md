@@ -3,10 +3,7 @@ title: 关于我
 icon: fas fa-info-circle
 order: 8
 ---
-
-# 关于我
-
-你好，我是 **YuXHan**。
+# 你好，我是 **YuXHan**
 
 这是我的个人网站。我会在这里记录生活、学习过程、研究兴趣与阶段性成果，也希望通过持续写作整理自己的思考。
 
@@ -21,4 +18,5 @@ order: 8
 
 - GitHub：[YuXHan](https://github.com/YuXHan)
 
-> 这是一份基础介绍，你可以随时在 Pages CMS 或 GitHub 中直接修改本页。
+> 这是一份基础介绍，我可以随时在 Pages CMS 或 GitHub 中直接修改本页。
+
