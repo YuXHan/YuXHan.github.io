@@ -1,0 +1,77 @@
+media:
+  input: assets/img/posts
+  output: /assets/img/posts
+
+settings:
+  commit:
+    identity: user
+    templates:
+      create: "新增内容：{filename}"
+      update: "更新内容：{filename}"
+      delete: "删除内容：{filename}"
+
+content:
+  - name: posts
+    label: 日记与学习笔记
+    type: collection
+    path: _posts
+    exclude: [".placeholder"]
+    filename:
+      template: "{year}-{month}-{day}-{primary}.md"
+      field: create
+    view:
+      fields: [title, date, categories, published]
+      primary: title
+      sort: [date, title]
+      default:
+        sort: date
+        order: desc
+    fields:
+      - { name: title, label: 标题, type: string, required: true }
+      - name: date
+        label: 日期
+        type: date
+        required: true
+        options:
+          time: true
+          format: "yyyy-MM-dd HH:mm:ss xx"
+      - { name: categories, label: 分类, type: string, list: true, required: true, description: "日记请把第一个分类写为“日记”，学习笔记写为“学习”。" }
+      - { name: tags, label: 标签, type: string, list: true }
+      - { name: description, label: 摘要, type: text }
+      - { name: pin, label: 置顶, type: boolean, default: false }
+      - { name: math, label: 启用数学公式, type: boolean, default: false }
+      - { name: mermaid, label: 启用 Mermaid 图表, type: boolean, default: false }
+      - { name: published, label: 在网站公开, type: boolean, default: true }
+      - { name: body, label: 正文, type: rich-text, required: true }
+
+  - name: about
+    label: 关于我
+    type: file
+    path: _tabs/about.md
+    fields:
+      - { name: title, type: string, hidden: true, default: "关于我" }
+      - { name: icon, type: string, hidden: true, default: "fas fa-info-circle" }
+      - { name: order, type: number, hidden: true, default: 8 }
+      - { name: body, label: 页面内容, type: rich-text }
+
+  - name: education
+    label: 教育经历
+    type: file
+    path: _tabs/education.md
+    fields:
+      - { name: title, type: string, hidden: true, default: "教育经历" }
+      - { name: icon, type: string, hidden: true, default: "fas fa-university" }
+      - { name: order, type: number, hidden: true, default: 3 }
+      - { name: permalink, type: string, hidden: true, default: "/education/" }
+      - { name: body, label: 页面内容, type: rich-text }
+
+  - name: achievements
+    label: 成果
+    type: file
+    path: _tabs/achievements.md
+    fields:
+      - { name: title, type: string, hidden: true, default: "成果" }
+      - { name: icon, type: string, hidden: true, default: "fas fa-trophy" }
+      - { name: order, type: number, hidden: true, default: 4 }
+      - { name: permalink, type: string, hidden: true, default: "/achievements/" }
+      - { name: body, label: 页面内容, type: rich-text }
