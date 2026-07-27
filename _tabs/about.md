@@ -1,8 +1,24 @@
 ---
-# the default layout is 'page'
+title: 关于我
 icon: fas fa-info-circle
-order: 4
+order: 8
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+# 关于我
+
+你好，我是 **YuXHan**。
+
+这是我的个人网站。我会在这里记录生活、学习过程、研究兴趣与阶段性成果，也希望通过持续写作整理自己的思考。
+
+## 网站内容
+
+- **日记**：生活记录、阶段回顾与随笔
+- **学习**：课程笔记、论文阅读、编程与知识总结
+- **教育经历**：学习背景与研究方向
+- **成果**：项目、论文、竞赛、奖项与其他作品
+
+## 联系我
+
+- GitHub：[YuXHan](https://github.com/YuXHan)
+
+> 这是一份基础介绍，你可以随时在 Pages CMS 或 GitHub 中直接修改本页。
