@@ -27,13 +27,15 @@ permalink: /achievements/
 
 ## 荣誉奖励
 
-- 2022-2023 本科生国家奖学金（前 1%）
-- 2023-2024 本科生国家奖学金（前 1%）
-- 2024-2025 本科生国家奖学金（前 1%）
-- 2025 年燕宝奖学金
-- 中央民族大学优秀共青团员
-- 中央民族大学优秀学生干部
-- 深圳零一学院零一菁锐奖
+| 荣誉名称 | 年份 |
+|---------|------|
+| 本科生国家奖学金（前 1%） | 2022-2023 |
+| 本科生国家奖学金（前 1%） | 2023-2024 |
+| 本科生国家奖学金（前 1%） | 2024-2025 |
+| 燕宝奖学金 | 2025 |
+| 中央民族大学优秀共青团员 | — |
+| 中央民族大学优秀学生干部 | — |
+| 深圳零一学院零一菁锐奖 | — |
 
 </div>
 
@@ -59,12 +61,14 @@ permalink: /achievements/
 
 ## Honorary Awards
 
-- 2022-2023 Undergraduate National Scholarship (Top 1%)
-- 2023-2024 Undergraduate National Scholarship (Top 1%)
-- 2024-2025 Undergraduate National Scholarship (Top 1%)
-- 2025 Yanbao Scholarship
-- Outstanding Communist Youth League Member of Central National University
-- Outstanding Student Leader of Central National University
-- Zero One Jingrui Award of Shenzhen Zero One College
+| Award | Year |
+|------|------|
+| Undergraduate National Scholarship (Top 1%) | 2022-2023 |
+| Undergraduate National Scholarship (Top 1%) | 2023-2024 |
+| Undergraduate National Scholarship (Top 1%) | 2024-2025 |
+| Yanbao Scholarship | 2025 |
+| Outstanding Communist Youth League Member, MUC | — |
+| Outstanding Student Leader, MUC | — |
+| Zero One Jingrui Award, Shenzhen Zero One College | — |
 
 </div>
