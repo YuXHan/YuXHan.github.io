@@ -7,7 +7,7 @@ permalink: /journal/
 
 {% assign journal_posts = site.categories["日记"] %}
 
-<div class="lang-zh">
+<div class="lang-zh" markdown="1">
 
 # 日记
 记录生活中的片段、感受与阶段性思考。
@@ -22,7 +22,7 @@ permalink: /journal/
 
 </div>
 
-<div class="lang-en">
+<div class="lang-en" markdown="1">
 
 # Journal
 Capturing life moments, reflections, and periodic thoughts.
