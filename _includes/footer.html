@@ -28,9 +28,11 @@
     {% endif %}
   </p>
 
+  {% if page.url == "/" %}
   <p id="busuanzi_container_site_pv" style="display: none">
     本站已被访问 <span id="busuanzi_value_site_pv">0</span> 次
   </p>
+  {% endif %}
 
   <p>
     {%- capture _platform -%}
@@ -38,16 +40,12 @@
     {%- endcapture -%}
 
     {%- capture _theme -%}
-      <a
-        data-bs-toggle="tooltip"
-        data-bs-placement="top"
-        title="v{{ theme.version }}"
-        href="https://github.com/cotes2020/jekyll-theme-chirpy"
-        target="_blank"
-        rel="noopener"
-      >Chirpy</a>
+      <a href="https://github.com/cotes2020/jekyll-theme-chirpy" target="_blank" rel="noopener">Chirpy</a>
     {%- endcapture -%}
 
-    {{ site.data.locales[include.lang].meta | replace: ':PLATFORM', _platform | replace: ':THEME', _theme }}
+    {{ site.data.locales[include.lang].meta
+      | replace: ':PLATFORM', _platform
+      | replace: ':THEME', _theme
+    }}
   </p>
 </footer>
