@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 8
 ---
 
-<div class="lang-zh">
+<div class="lang-zh" markdown="1">
 
 # 你好，我是赵天泽 (YuXHan)
 
@@ -28,7 +28,7 @@ order: 8
 
 </div>
 
-<div class="lang-en">
+<div class="lang-en" markdown="1">
 
 # Hello, I'm Zhao Tianze (YuXHan)
 
