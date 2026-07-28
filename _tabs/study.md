@@ -7,7 +7,7 @@ permalink: /study/
 
 {% assign study_posts = site.categories["学习"] %}
 
-<div class="lang-zh">
+<div class="lang-zh" markdown="1">
 
 # 学习笔记
 记录课程学习、论文阅读、编程实践与知识总结。
@@ -22,7 +22,7 @@ permalink: /study/
 
 </div>
 
-<div class="lang-en">
+<div class="lang-en" markdown="1">
 
 # Study Notes
 Course learning, paper reading, programming practice, and knowledge summaries.
