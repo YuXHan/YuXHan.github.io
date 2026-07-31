@@ -1,3 +1,0 @@
-/* Language switch styles */
-.lang-zh, .lang-en { display: none; }
-html[lang="zh"] .lang-zh, html[lang="en"] .lang-en { display: block; }
