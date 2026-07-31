@@ -1,5 +1,5 @@
 ---
-title: 日记
+title: Journal
 icon: fas fa-book-open
 order: 1
 permalink: /journal/
@@ -10,7 +10,7 @@ permalink: /journal/
 <div class="lang-zh" markdown="1">
 
 # 日记
-记录生活中的片段、感受与阶段性思考。
+Capturing life moments, reflections, and milestone thoughts.
 
 {% if journal_posts.size > 0 %}
 {% for post in journal_posts %}
