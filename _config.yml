@@ -2,14 +2,14 @@
 
 theme: jekyll-theme-chirpy
 
-# 网站界面语言
-lang: zh-CN
+# Site UI language
+lang: en
 
-# 时区
+# Timezone
 timezone: Asia/Shanghai
 
 # --------------------------
-# 网站基本信息
+# Site basic info
 # --------------------------
 
 title: YuXHan
@@ -20,7 +20,7 @@ description: >-
   YuXHan's personal website for research, engineering projects,
   study notes, and personal records.
 
-# GitHub Pages 网站地址，最后不要加 /
+# GitHub Pages site URL, do not append a trailing /
 url: "https://yuxhan.github.io"
 
 github:
@@ -30,10 +30,10 @@ twitter:
   username:
 
 social:
-  # 以后文章默认显示的作者名
+  # Default author name for posts
   name: YuXHan
 
-  # 暂时不想公开邮箱的话就留空
+  # Leave empty if you prefer not to disclose your email
   email:
 
   fediverse_handle:
