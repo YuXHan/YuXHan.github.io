@@ -4,7 +4,6 @@ icon: fas fa-info-circle
 order: 8
 ---
 
-<div class="lang-zh" markdown="1">
 
 # 你好，我是赵天泽 (YuXHan)
 
@@ -16,19 +15,19 @@ order: 8
 
 ## 近期工作
 
-- **论文 "An Integrated Assessment of Mobility Forecasting and Vehicle Rebalancing for Urban Taxi Services Resilience under Heavy Rainfall"，第一作者，正在进行第二轮修改。**
+- **论文 "An Integrated Assessment of Mobility Forecasting and Vehicle Rebalancing for Urban Taxi Services Resilience under Heavy Rainfall"，第一作者，正在交由组内审核。**
 - **一项涉及不同阶层社交互动的研究，担任第一或第二作者，目前由他人接手处理。**
-- **近期加入 "Large Model for Crowd Movement" 课题组，担任数据处理组副组长。**
-- **在航运部门负责 AIS 数据和吃水数据处理。**
+- **近期加入 "Large Model for Crowd Movement" 课题组，担任数据处理组组长。**
+- **在航运部门负责 AIS 数据和吃水数据处理，目前第一步的四个任务已完成。**
 
 ## 联系方式
 
 - 📧 [yuxhallin@163.com](mailto:yuxhallin@163.com)
 - 💻 GitHub：[YuXHan](https://github.com/YuXHan)
 
-</div>
 
-<div class="lang-en" markdown="1">
+
+&nbsp;
 
 # Hello, I'm Zhao Tianze (YuXHan)
 
@@ -50,4 +49,3 @@ Machine learning, sociology, economics, social interaction among classes, large-
 - 📧 [yuxhallin@163.com](mailto:yuxhallin@163.com)
 - 💻 GitHub：[YuXHan](https://github.com/YuXHan)
 
-</div>
